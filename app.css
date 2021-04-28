@@ -1,0 +1,116 @@
+body{
+    font-family: sans-serif;
+    font-size: medium;
+}
+.button{
+    display: inline-block;
+    text-decoration: none;
+    padding: 2px 4px 2px 4px;
+    border-width: 1px;
+    border-radius: 3px;
+    text-align: center;
+    vertical-align: center;
+    margin: auto;
+}
+
+.button:hover{
+    font-weight: bold;
+}
+
+.button-normal{
+    width: 120px;
+    height: 50px;
+}
+
+.button-blue{
+    color: white;
+    background-color: orange;
+    border-color: #0984e3;
+}
+
+.button-black{
+    color: white;
+    background-color: #000;
+    border-color: #000;
+}
+
+.button-green{
+    color: white;
+    background-color: #00b894;
+    border-color: #00b894;
+}
+
+.button-red{
+    color: white;
+    background-color: #d63031;
+    border-color: #d63031;
+}
+
+.button-yellow{
+    color: white;
+    background-color: #fdcb6e;
+    border-color: #fdcb6e;
+}
+
+/*HEADING STYLES*/
+.heading-level-1{
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+.heading-level-2{
+    font-size: 2px;
+    font-weight: bolder;
+}
+
+.heading-level-3{
+    font-size: 19px;
+    font-weight: bolder;
+}
+
+.heading-level-4{
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+.heading-level-5{
+    font-size: 14px;
+    font-weight: bolder;
+}
+
+.heading-level-6{
+    font-size: 12px;
+    font-weight: bolder;
+}
+
+.heading-left{
+    text-align: left;
+}
+
+.heading-center{
+    text-align: center;
+}
+
+.heading-justify{
+    text-align: justify;
+}
+/*TABLE STYLES*/
+.table{
+    width: 100%;
+    border: none;
+    text-align: center;
+}
+
+.table-bordered{
+    border-collapse: collapse;
+}
+form.main
+{
+    width: 50%;
+    height: 800px%;
+    margin: 0px auto;
+    padding: 20px;
+    border: 1px solid #B0C4DE;
+    background: blue;
+    border-radius: 0px 0px 10px 10px;
+}
